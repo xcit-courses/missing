@@ -50,7 +50,7 @@ format:
     toc: false
     toc-location: right
     toc-title: "Contents"
-    # link-external-icon: true
+    link-external-icon: true
     link-external-newwindow: true
     grid:
       sidebar-width: 300px

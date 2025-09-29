@@ -1,6 +1,6 @@
 color:
   palette:
-    blue: "#ddeaf1"
+    red: "#ff0000"
   primary: "#333333"
 
 typography:
@@ -11,7 +11,7 @@ typography:
   headings: IBM Plex Sans
   link:
     decoration: underline
-    color: red
+    color: "#1484CD"
 
 defaults:
   bootstrap:

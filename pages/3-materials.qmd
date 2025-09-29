@@ -3,3 +3,21 @@ title: Materials
 order: 3
 output-file: materials
 ---
+
+## Books
+
+## Hardware
+
+[BBC micro:bit](https://microbit.org/)
+
+[Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
+
+## Software
+
+- git
+- dvc
+- Python and Jupyter
+- pixi and uv
+- VSCode
+- Quarto
+
