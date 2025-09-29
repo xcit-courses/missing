@@ -18,7 +18,7 @@ website:
     style: docked
     # background: "#f8f8f8"
     border: true
-    logo-alt: "The Missing Course for Cognitive Sciences"
+    logo-alt: "The Missing Course for Cognitive Scientists"
     title: The Missing Course
     align: center
     pinned: true
