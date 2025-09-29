@@ -6,9 +6,9 @@ output-file: schedule
 
 ## Winter 2025
 
-- Nov 2025: Getting confident with Python and physical computing with Micro:bit
-- Nov 2025: Gentle introduction to command line and IDEs with Raspberry Pi 5 (vscode, package management, git)
-- Dec 2025: Tools for collaborative and reproducible science (environments, github, dvc, quarto, data formats)
-- Jan 2025: Getting introduced to software design techniques (UML, BPMN, project/data management) and everyday machine learning (scikit)
-- Jan 2025 (optional): data, advanced topics
+1. Nov 2025: Getting confident with Python and physical computing with Micro:bit
+2. Nov 2025: Gentle introduction to command line and IDEs with Raspberry Pi 5 (vscode, package management, git)
+3. Dec 2025: Tools for reproducible science (environments, git, dvc, data formats) and collaboration (quarto, github)
+4. Jan 2025: Getting introduced to software design techniques (UML, BPMN, project/data management) and everyday machine learning (scikit)
+5. Jan 2025 (optional): data, advanced topics
 

@@ -1,0 +1,15 @@
+---
+title: Session 5
+subtitle: More Advanced Topics
+date: 2026-01
+date-format: "MMMM YYYY"
+published-title: "Date"
+---
+
+- Data for time-series
+- Databases, XArray, DuckDB, EDF/HDF5/NetCDF/etc
+- HPC and Cloud
+- Intro to deep learning
+- RPi AI HAT
+- Sustainability and Green Computing
+- Safety and Privacy

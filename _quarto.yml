@@ -27,16 +27,15 @@ website:
     footer: |
       <p style='font-size: .75rem' class="text-secondary fst-italic">&copy; 2025</p>
     contents:
-      - file: index.qmd
-        text: Home
+      - text: Home
+        file: index.qmd
       - file: pages/1-syllabus.qmd
       - file: pages/2-schedule.qmd
-      - file: pages/3-materials.qmd
-      - auto: slides/
-      - file: pages/4-links.qmd
-      - href: pages/5-faq.qmd
-        text: FAQ
-      - file: pages/6-about.qmd
+      - auto: lectures/
+      - file: pages/3-resources.qmd
+      - text: FAQ
+        file: pages/4-faq.qmd
+      - file: pages/5-about.qmd
 
 
 format:

@@ -1,0 +1,35 @@
+---
+title: Session 3
+subtitle: Reproducibility and Collaboration (Version Control, Quarto)
+date: 2025-12
+date-format: "MMMM YYYY"
+published-title: "Date"
+---
+
+
+Tools for reproducible science (environments, git, dvc, data formats) and collaboration (quarto, github)
+
+
+### Codes: environments
+
+Conda/Mamba/Pixi, pip/uv, Docker
+
+
+### Data: formats
+
+csv, json/yaml, parquet
+
+BDM, BIDS, Psych-DS, FAIR principles
+
+
+### Version Control for Reproducibility
+
+Git, DVC
+
+### Version Control for Collaboration
+
+Git/Hub, branching, pull requests, merging, issues
+
+### Publishing and Sharing
+
+Markdown, Quarto, GitHub Pages, Zenodo, OSF

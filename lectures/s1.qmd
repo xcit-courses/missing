@@ -1,0 +1,12 @@
+---
+title: Session 1
+subtitle: Micro:bit and Python
+date: 2025-11
+date-format: "MMMM YYYY"
+published-title: "Date"
+---
+
+
+The BBC micro:bit is a pocket-sized programmable computer with several inputs and outputs built in (e.g., buttons, speaker, motion detector, compass, display, wireless radio communication).
+
+Micro:bit can be programmed using an online Python editor, so no need to install anything, and no platform dependency.

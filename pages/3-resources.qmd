@@ -1,7 +1,8 @@
 ---
-title: Materials
+title: Useful Resources
+subtitle: Materials/Links
 order: 3
-output-file: materials
+output-file: resources
 ---
 
 ## Books
