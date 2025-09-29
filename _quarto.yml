@@ -1,0 +1,56 @@
+project:
+  type: website
+  title: The Missing Course
+  preview:
+    port: 4321
+    watch-inputs: true
+  resources:
+    - "assets/**/*"
+
+language: 
+  search-text-placeholder: Search
+
+website:
+  navbar: false
+  bread-crumbs: true
+  page-navigation: true
+  sidebar:
+    style: docked
+    # background: "#f8f8f8"
+    border: true
+    logo-alt: "The Missing Course for Cognitive Sciences and Humanities"
+    title: The Missing Course
+    align: center
+    pinned: true
+    search: true
+    collapse-level: 1
+    footer: |
+      <p style='font-size: .75rem' class="text-secondary fst-italic">&copy; 2025</p>
+    contents:
+      - file: index.qmd
+        text: Home
+      - file: pages/1-syllabus.qmd
+      - file: pages/2-schedule.qmd
+      - file: pages/3-materials.qmd
+      - auto: slides/
+      - file: pages/4-links.qmd
+      - href: pages/5-faq.qmd
+        text: FAQ
+      - file: pages/6-about.qmd
+
+
+format:
+  html:
+    theme:
+      light:
+        - brand
+        - assets/css/custom.scss
+    respect-user-color-scheme: true
+    email-obfuscation: javascript
+    toc: false
+    toc-location: right
+    toc-title: "Contents"
+    # link-external-icon: true
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 300px

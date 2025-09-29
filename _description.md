@@ -5,7 +5,8 @@ website: https://morteza.github.io/missing
 instructors:
     - name: Morteza Ansarinia
       email: morteza.ansarinia@uni.lu
-ECTS: 6
+    - name: Pedro Cardoso-Leite
+ECTS: 2
 language: English
 course-type: Workshop
 participants: 12 (4-6 groups of 2-3)

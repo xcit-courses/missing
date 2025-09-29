@@ -1,0 +1,19 @@
+color:
+  palette:
+    blue: "#ddeaf1"
+  primary: "#333333"
+
+typography:
+  fonts:
+    - family: IBM Plex Sans
+      source: google
+  base: IBM Plex Sans
+  headings: IBM Plex Sans
+  link:
+    decoration: underline
+    color: red
+
+defaults:
+  bootstrap:
+    defaults: # defaults also supports a string as its value
+      sidebar-bg: "#fafafa"

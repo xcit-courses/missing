@@ -1,0 +1,6 @@
+---
+title: The Missing Course
+subtitle: Essentials of Computing for Cognitive Sciences and Humanities
+---
+
+Hello!

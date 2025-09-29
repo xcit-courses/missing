@@ -1,0 +1,7 @@
+---
+title: "About"
+order: 6
+output-file: about
+---
+
+About the course

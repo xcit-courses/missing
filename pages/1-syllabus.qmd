@@ -1,0 +1,5 @@
+---
+title: Syllabus
+order: 1
+output-file: syllabus
+---
