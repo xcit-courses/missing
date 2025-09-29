@@ -1,5 +1,5 @@
 ---
-title: The Missing Course
+title: The Missing Course for Cognitive Sciences
 subtitle: Essentials of Computing for Cognitive Sciences and Humanities
 ---
 
