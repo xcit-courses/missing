@@ -7,6 +7,9 @@ Computers are the most essential tools in modern research, yet many graduate pro
 
 This hands-on workshop fills that gap by providing a structured introduction to the essentials of computing. It provides a gentle intro to programming for motivated students with little or no prior experience in programming computers (or just the interest to refresh their skills).
 
+The course is open to all doctoral candidates at the University of Luxembourg (MSc students are welcome to observe).
+
+
 ## Learning outcomes
 
 By the end of the workshop, participants will be able to:

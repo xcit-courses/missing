@@ -3,3 +3,36 @@ title: Syllabus
 order: 1
 output-file: syllabus
 ---
+
+::: {.column-margin}
+**Instructors:** Morteza Ansarinia, Pedro Cardoso-Leite
+
+**ECTS:** 2
+
+**Location:** Belval Campus, University of Luxembourg
+
+:::
+
+### Meeting Times
+
+Lectures: 5 sessions, twice a month (3 months)
+
+Time: 13:00 - 17:00 + 1h non-mandatory office hours
+
+Workload: 20h of in-class activities + 20h of self-study (personal projects)
+
+See [Schedule](./2-schedule.qmd) for details.
+
+### Prerequisites
+
+There are no prerequisites for this course.
+
+Students need to have prior knowledge in at least one of the following domains: 1) Cognitive science, experimental psychology, neuroscience, 2) Computer science, AI, statistics.
+
+If you have doubts about whether you have the required prior knowledge, you can contact us.
+
+### Evaluation
+
+It’s a pass/fail course; attendance and participation in a team to work on a personal project are important; send us and email in advance if you have to miss a class.
+
+You can also work on optional assignments when you have free time. They are completely optional but designed to give you a better intuition about computer programming, physical computing and AI.

@@ -21,9 +21,7 @@ workload:
     class: 16h (4h per month)
     self-study: 16h on personal projects
 prerequisites: None
-evaluation:
-    
-    It’s a pass/fail course; attendance and participation in a team to work on a personal project are important; send us and email in advance if you have to miss a class.
+evaluation: It’s a pass/fail course; attendance and participation in a team to work on a personal project are important; send us and email in advance if you have to miss a class.
 
 Optional assignments: you can work on them when you have free time. They are completely optional but designed to give you a better intuition about computer programming, physical computing and AI.
 admission-criteria: |
