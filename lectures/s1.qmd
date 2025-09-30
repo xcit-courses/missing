@@ -1,12 +1,66 @@
 ---
 title: Session 1
-subtitle: Micro:bit and Python
+subtitle: Gentle introduction to Python programming with micro:bit
 date: 2025-11
 date-format: "MMMM YYYY"
 published-title: "Date"
 ---
 
+### Hardware
 
-The BBC micro:bit is a pocket-sized programmable computer with several inputs and outputs built in (e.g., buttons, speaker, motion detector, compass, display, wireless radio communication).
+BBC micro:bit is a pocket-sized programmable computer with several inputs and outputs built in (e.g., buttons, speaker, motion detector, compass, display, wireless radio communication).
 
-Micro:bit can be programmed using an online Python editor, so no need to install anything, and no platform dependency.
+Micro:bit can be programmed using an online editor, so you don't need to install anything, and there is no platform dependency.
+
+### Software
+
+We will use Python to program the micro:bit. Python is a popular programming language that is easy to learn and use. It is widely used for web development, data science, artificial intelligence, and scientific computing.
+
+Python is an interpreted language, which means that you can run your code without compiling it first. This makes it easy to test and debug your code.
+
+Here is an example of a simple Python program that displays a heart on the micro:bit's LED display and then scrolls the text "Hello Brain" across the display:
+
+```python
+from microbit import *
+
+# repeat forever
+while True:
+    display.show(Image.SKULL)
+    sleep(1000)
+    display.scroll('Hello Brain')
+```
+
+### Basics of Python
+
+Here are some basic concepts of Python that we will cover in this session:
+
+- REPL
+- expressions
+- variables
+- types (int, float, str, bool)
+- print
+- assignment
+- mutable vs immutable
+- basic built-in functions (type, len, int, float, str)
+- fstring
+- comments
+- conditions
+- loops, range, break, continue
+- collections (list, tuple, dict, set)
+- dictionaries
+- functions
+- abstraction (pure/impure, side effects, reuse)
+- files
+- data files
+- handling errors
+- math
+- modules/libs (math, random, time)
+- popular libraries (numpy, matplotlib, pandas, etc)
+
+### Getting Started
+
+1. Go to the [Micro:bit Python Editor](https://python.microbit.org/v/3).
+2. Connect your micro:bit to your computer using a USB cable.
+3. Write your Python code in the editor.
+4. Click the "Send to micro:bit" button to upload your code to the micro:bit.
+5. The code will run automatically on the micro:bit.

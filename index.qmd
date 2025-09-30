@@ -3,9 +3,9 @@ title: The Missing Course for Cognitive Scientists
 subtitle: Essentials of Computing for Cognitive Sciences and Humanities
 ---
 
-Graduate courses in cognitive sciences typically focus on advanced topics such as statistical methods, psychometrics, or brain imaging. And students are often left to teach themselves the very tools they use on a daily basis: computers. This hands-on workshop fills that gap by providing a structured introduction to the essentials of computing for research.
+Computers are the most essential tools in modern research, yet many graduate programs in cognitive sciences focus primarily on advanced topics, leaving students to teach themselves the very tools they use on a daily basis: computers.
 
-The course provides a gentle intro to programming for highly motivated students with little or no prior experience in programming computers. The focus is on using Python for use cases in humanities and cognitive sciences.
+This hands-on workshop fills that gap by providing a structured introduction to the essentials of computing. It provides a gentle intro to programming for motivated students with little or no prior experience in programming computers (or just the interest to refresh their skills).
 
 ## Learning outcomes
 
