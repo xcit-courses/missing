@@ -2,8 +2,6 @@
 title: Session 3
 subtitle: Reproducibility and Collaboration (Version Control, Quarto)
 date: 2025-12
-date-format: "MMMM YYYY"
-published-title: "Date"
 ---
 
 

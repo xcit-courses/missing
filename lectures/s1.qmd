@@ -2,33 +2,48 @@
 title: Session 1
 subtitle: Gentle introduction to Python programming with micro:bit
 date: 2025-11
-date-format: "MMMM YYYY"
-published-title: "Date"
 ---
+
+## Part 1
 
 ### Hardware
 
-BBC micro:bit is a pocket-sized programmable computer with several inputs and outputs built in (e.g., buttons, speaker, motion detector, compass, display, wireless radio communication).
+:::{layout="[10,2]"}
+
+[BBC micro:bit](https://microbit.org/) is a pocket-sized programmable computer with several inputs and outputs built in (e.g., buttons, speaker, motion detector, compass, display, wireless radio communication).
+
+![BBC micro:bit v2](../assets/img/microbit.jpg)
+
+:::
 
 Micro:bit can be programmed using an online editor, so you don't need to install anything, and there is no platform dependency.
 
+![](../assets/img/microbit_v2_annotated.png)
+
 ### Software
 
-We will use Python to program the micro:bit. Python is a popular programming language that is easy to learn and use. It is widely used for web development, data science, artificial intelligence, and scientific computing.
+We will use [Python](https://python.org) to program the micro:bit. Python is a popular programming language that is easy to learn and use. It is widely used for data science, artificial intelligence, web development, and scientific computing.
 
 Python is an interpreted language, which means that you can run your code without compiling it first. This makes it easy to test and debug your code.
 
 Here is an example of a simple Python program that displays a heart on the micro:bit's LED display and then scrolls the text "Hello Brain" across the display:
 
 ```python
-from microbit import *
+from microbit import display, Image, sleep         # <1>
 
-# repeat forever
-while True:
-    display.show(Image.SKULL)
-    sleep(1000)
-    display.scroll('Hello Brain')
+# repeat forever                        # <2>
+while True:                             # <3>
+    display.show(Image.SKULL)           # <4>
+    sleep(1000)                         # <5>
+    display.scroll('Hello Brain')       # <6>
 ```
+
+1. Import the necessary modules from the micro:bit library.
+2. A comment in Python starts with a `#` symbol (to the end of the line) and is ignored by the interpreter.
+2. Start an infinite loop.
+3. Display a skull image on the micro:bit's LED display.
+4. Pause for 1000 milliseconds (1 second).
+5. Scroll the text "Hello Brain" across the LED display.
 
 ### Basics of Python
 
@@ -55,7 +70,6 @@ Here are some basic concepts of Python that we will cover in this session:
 - handling errors
 - math
 - modules/libs (math, random, time)
-- popular libraries (numpy, matplotlib, pandas, etc)
 
 ### Getting Started
 
@@ -64,3 +78,11 @@ Here are some basic concepts of Python that we will cover in this session:
 3. Write your Python code in the editor.
 4. Click the "Send to micro:bit" button to upload your code to the micro:bit.
 5. The code will run automatically on the micro:bit.
+
+
+## Part 2: Notebooks and Dependencies
+
+- Jupyter and Colab
+- popular libraries (numpy, matplotlib, pandas, etc)
+- GitHub Codespaces
+

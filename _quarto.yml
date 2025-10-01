@@ -39,6 +39,10 @@ website:
 
 format:
   html:
+    date-format: "MMMM YYYY"
+    published-title: "Date"
+    code-copy: false
+    code-annotations: select
     theme:
       light:
         - brand

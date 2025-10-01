@@ -2,8 +2,6 @@
 title: Session 5
 subtitle: More Advanced Topics
 date: 2026-01
-date-format: "MMMM YYYY"
-published-title: "Date"
 ---
 
 - Data for time-series

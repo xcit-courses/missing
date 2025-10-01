@@ -2,6 +2,4 @@
 title: Session 4
 subtitle: Software Design and Everyday Machine Learning
 date: 2026-01
-date-format: "MMMM YYYY"
-published-title: "Date"
 ---
