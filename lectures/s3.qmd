@@ -24,6 +24,37 @@ BDM, BIDS, Psych-DS, FAIR principles
 
 Git, DVC
 
+#### Git
+
+See slides
+
+#### Data Version Control (DVC)
+
+Git helps manage software code. But data version control, managing changes to datasets and models, is not so easy.
+
+DVC is an open-source tool that helps govern data and models. It works on top of Git, tracking changes to large files, datasets, and machine learning models without storing them directly in your Git repository. Alternatives include Git LFS, LakeFS, datachain, DataLad/git-annex, etc.
+
+> Some terms: database, dataset, data registry/catalog, data warehouse, etc, lineage, provenance, reproducibility, immutability, checksum, remote storage
+
+#### Basic DVC workflow
+
+1. `dvc init` - Initialize DVC in your project
+2. `dvc add <data-file>` - Track a data file with DVC
+3. `git add <data-file>.dvc .gitignore` - Stage DVC
+4. `git commit -m "Add data file"` - Commit changes to Git
+5. `dvc remote add -d myremote <remote-storage-url>` - Add remote
+6. `dvc push` - Push data to remote storage
+7. `dvc pull` - Pull data from remote storage
+8. `dvc repro` - Reproduce the pipeline
+
+#### DVC remote storage options
+
+- Local filesystem
+- SSH (e.g., HPC clusters)
+- Cloud storage (AWS S3, Google Cloud Storage, Azure Blob Storage)
+- etc
+
+
 ### Version Control for Collaboration
 
 Git/Hub, branching, pull requests, merging, issues
