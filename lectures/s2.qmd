@@ -3,3 +3,87 @@ title: Session 2
 subtitle: RPi5, CLI, and VSCode
 date: 2025-11
 ---
+
+# Hardware: Raspberry Pi 5
+
+## Hardware
+
+- GPIO
+- I2C
+- SPI
+- UART
+- PWM
+- Camera
+- Other peripherals
+
+## Software
+
+## Setting up and using RPi5
+
+- Install Raspberry Pi OS
+- Wifi
+- Update and upgrade packages
+- Configurations
+- Raspberry Pi Connect
+
+# CLI and VSCode
+
+## What is CLI?
+...
+
+Basic commands:
+
+ls
+cd pathname
+cd ..
+cp
+mv
+mkdir
+rmdir
+clear
+exit
+man
+rm
+
+## Bash, Zsh, and other shells
+
+...
+
+## Script files
+
+...
+
+## Remote access
+
+rpi-connect, ssh, scp, etc
+
+## Terminal in VSCode
+
+- install VSCode
+- install Remote - SSH extension
+
+## Pre-installed tools
+
+- apt
+- Python/pip
+- Git
+- curl/wget
+- nano/vim
+- gcc/g++
+- htop
+- rsync
+- ssh/scp
+- bash/zsh
+- etc
+
+
+# Connecting Micro:bit to RPi5
+
+- via USB
+- via Bluetooth
+- Install Micropython
+- Thonny/Mu editors
+- Example codes
+- Upload code to Micro:bit
+- Use micro:bit in VSCode
+- Use micro:bit in CLI
