@@ -26,7 +26,27 @@ Git, DVC
 
 #### Git
 
-See slides
+- Install git (if not installed)
+- Create a github account (if you don't have one)
+- Create a new repository on GitHub (e.g., "my-first-repo")
+- Clone the repository to your local machine:
+
+```bash
+    git clone
+    cd my-first-repo
+```
+
+- Create a new file (e.g., `README.md`) and add some content to it.
+- Save the changes with a descriptive message:
+```bash
+    git commit -am "Add README file"
+```
+- Upload the changes to GitHub:
+```bash
+    git push origin main
+```
+- Make further changes to the file or add new files, then repeat the commit and push steps to update your repository.
+
 
 #### Data Version Control (DVC)
 
@@ -38,7 +58,8 @@ DVC is an open-source tool that helps govern data and models. It works on top of
 
 #### Basic DVC workflow
 
-1. `dvc init` - Initialize DVC in your project
+0. `dvc init` - Initialize DVC in your project
+1. `dvc config core.analytics false` - Disable analytics if desired
 2. `dvc add <data-file>` - Track a data file with DVC
 3. `git add <data-file>.dvc .gitignore` - Stage DVC
 4. `git commit -m "Add data file"` - Commit changes to Git
@@ -58,6 +79,11 @@ DVC is an open-source tool that helps govern data and models. It works on top of
 ### Version Control for Collaboration
 
 Git/Hub, branching, pull requests, merging, issues
+
+- fork repositories, create branches, and submit pull requests on GitHub.
+- Use issues to track tasks, enhancements, and bugs.
+- Review code changes before merging.
+- Use GitHub Projects for project management.
 
 ### Publishing and Sharing
 

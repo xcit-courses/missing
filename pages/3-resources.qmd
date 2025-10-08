@@ -22,3 +22,10 @@ output-file: resources
 - VSCode
 - Quarto
 
+
+HuggingFace: https://huggingface.co/
+
+https://realpython.com/python-data-version-control/
+
+https://github.com/zakirullin/cognitive-load
+
