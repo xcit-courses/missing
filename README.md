@@ -1,6 +1,6 @@
 # The Missing Course for Cognitive Scientists
 
-This is the repository for the "The Missing Course for Cognitive Scientists: Essentials of Computing" by [Morteza Ansarinia](https://morty.lu).
+This is the repository for the "The Missing Course for Cognitive Scientists: Essentials of Computing" at the University of Luxembourg.
 
 The course is designed to teach cognitive scientists the essential computing skills they need to succeed in their research and careers. It covers a wide range of topics, including:
 
