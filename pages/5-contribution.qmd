@@ -1,0 +1,14 @@
+---
+title: Contributing to the Course
+order: 4
+output-file: contribution
+---
+
+We welcome all forms of contribution. Here are some ways you can help:
+
+- Contributing materials such as tutorials, guides, and examples.
+- Translating the materials into new languages.
+- Adapting the materials for different contexts or audiences.
+- Peer review of the student assignments and projects.
+
+Please visit our [GitHub repository](https://github.com/xcit-courses/missing/) to get started.

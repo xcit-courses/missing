@@ -3,3 +3,45 @@ title: Frequently Asked Questions
 order: 4
 output-file: faq
 ---
+
+::: {.callout appearance="minimal" collapse="true"}
+## Who can apply?
+
+Doctoral candidates in humanities, cognitive sciences, psychology, and related fields at the University of Luxembourg. Motivated Master students may request to participate if space allows.
+:::
+
+:::: {.callout appearance="minimal" collapse="true"}
+## How do I register?
+
+Complete the short interest form circulated by the Doctoral School. Seats are confirmed on a rolling basis, with priority given to students whose research statements align with the course themes and who commit to the project showcase.
+:::
+
+:::: {.callout appearance="minimal" collapse="true"}
+## What equipment do I need?
+
+We provide Micro:bit and Raspberry Pi kits and peripherals. Participants can also bring a laptop capable of running VS Code and Python (macOS, Linux, or Windows 11).
+:::
+
+:::: {.callout appearance="minimal" collapse="true"}
+## How is the course assessed?
+
+Assessment is pass/fail based on attendance and participation in a collaborative project. Optional challenge tasks contribute to an advanced competency badge.
+:::
+
+:::: {.callout appearance="minimal" collapse="true"}
+### Can I integrate my own research project?
+
+Absolutely. We encourage participants to align labs and the final showcase with their existing or planned research.
+:::
+
+:::: {.callout appearance="minimal" collapse="true"}
+### What happens after the course?
+
+Participants retain access to the hardware lending pool for additional weeks and are invited to present their projects at departmental seminars.
+:::
+
+:::: {.callout appearance="minimal" collapse="true"}
+### Will there be support after the course?
+
+Yes, we offer office hours to support continued learning and project development.
+:::

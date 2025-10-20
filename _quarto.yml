@@ -35,6 +35,8 @@ website:
       - file: pages/3-resources.qmd
       - text: FAQ
         file: pages/4-faq.qmd
+      - text: Contribution
+        file: pages/5-contribution.qmd
 
 
 format:

@@ -1,13 +1,15 @@
 ---
-title: The Missing Course for Cognitive Scientists
-subtitle: Essentials of Computing for Cognitive Sciences and Humanities
+title: The Missing Course for Humanities
+subtitle: Essentials of Computing for Humanities and Cognitive Sciences
 ---
 
 Computers are the most essential tools in modern research, yet many graduate programs in cognitive sciences focus primarily on advanced topics, leaving students to teach themselves the very tools they use on a daily basis: computers.
 
 This hands-on workshop fills that gap by providing a structured introduction to the essentials of computing. It provides a gentle intro to programming for motivated students with little or no prior experience in programming computers (or just the interest to refresh their skills).
 
-The course is open to all doctoral candidates at the University of Luxembourg (MSc students are welcome to observe).
+The course is open to all doctoral candidates at the University of Luxembourg (motivated MSc students are welcome to observe).
+
+Teaching and materials are delivered in English. If you are interested in translating the materials to new languages or adapt the materials for other contexts, please see [contribution](pages/5-contribution.qmd) for details.
 
 
 ## Learning outcomes
@@ -18,7 +20,8 @@ By the end of the workshop, participants will be able to:
 - Apply essential programming techniques (e.g., structuring projects, implementing everyday machine learning workflows) 
 - Use software engineering methods (specification and diagramming, peer coding, RegEx) 
 - Apply version control and reproducible data management to their projects (Git, DVC) 
-- Use the command line and integrated development environments effectively. 
+- Use the command line and integrated development environments effectively
 - Publish scientific websites and documents with Markdown and Quarto 
-- Apply physical computing to research tasks using Micro:bit and Raspberry Pi 5
-
+- Physical computing to research tasks using Micro:bit and Raspberry Pi 5
+- Everyday machine learning and AI
+- Essential software engineering practices for research (designing, testing, documenting, and sharing code)
