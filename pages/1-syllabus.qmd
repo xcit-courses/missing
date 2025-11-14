@@ -5,7 +5,7 @@ output-file: syllabus
 ---
 
 ::: {.column-margin}
-**Instructors:** Morteza Ansarinia, Pedro Cardoso-Leite
+**Instructors:** TBA
 
 **ECTS:** 2
 

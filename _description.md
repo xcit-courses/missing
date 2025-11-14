@@ -28,11 +28,11 @@ admission-criteria: |
     Students need to have prior knowledge in at least one of the following domains: 1) Cognitive science, experimental psychology, neuroscience, 2) Computer science, AI, statistics.
     If you have doubts about whether you have the required prior knowledge, you can contact us.
 dates:
-    - Nov 2025: Getting confident with Python and physical computing with Micro:bit
-    - Nov 2025: Gentle introduction to command line and IDEs with Raspberry Pi 5 (vscode, package management, git)
-    - Dec 2025: Tools for collaborative and reproducible science (environments, github, dvc, quarto, data formats)
-    - Jan 2025: Getting introduced to software design techniques (UML, BPMN, project/data management) and everyday machine learning (scikit)
-    - Jan 2025 (optional): data, advanced topics
+    - Mar 2026: Getting confident with Python and physical computing with Micro:bit
+    - Mar 2026: Gentle introduction to command line and IDEs with Raspberry Pi 5 (vscode, package management, git)
+    - Apr 2026: Tools for collaborative and reproducible science (environments, github, dvc, quarto, data formats)
+    - Apr 2026: Getting introduced to software design techniques (UML, BPMN, project/data management) and everyday machine learning (scikit)
+    - May 2026: data, advanced topics
 ---
 
 # The Missing Course: Essentials of Computing for Humanities
