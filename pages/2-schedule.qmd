@@ -11,4 +11,3 @@ output-file: schedule
 3. Apr 2026: Tools for reproducible science (environments, git, dvc, data formats) and collaboration (quarto, github)
 4. Apr 2026: Getting introduced to software design techniques (UML, BPMN, project/data management) and everyday machine learning (scikit)
 5. May 2026: advanced topics
-
