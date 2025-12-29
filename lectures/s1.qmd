@@ -4,9 +4,24 @@ subtitle: Gentle introduction to Python programming with micro:bit
 date: 2026-03
 ---
 
-## Part 1
+## Course overview
 
-### Hardware
+## Part 1: A bit of computer architecture
+
+- What is a computer?
+- History
+- von Neumann architecture
+- Unconventional architectures
+- ISA, software, hardware
+    - data types, states, semantics, instruction sets
+    - data (binary, ternary, decimal), chars, numbers, fp, etc
+    - bits in computer architecture
+    - Endianness
+    - CISC vs RISC
+
+## Part 2
+
+### Micro:bit
 
 :::{layout="[10,2]"}
 
@@ -20,7 +35,7 @@ Micro:bit can be programmed using an online editor, so you don't need to install
 
 ![](../assets/img/microbit_v2_annotated.png)
 
-### Software
+### Programming micro:bit with Python
 
 We will use [Python](https://python.org) to program the micro:bit. Python is a popular programming language that is easy to learn and use. It is widely used for data science, artificial intelligence, web development, and scientific computing.
 
@@ -71,7 +86,7 @@ Here are some basic concepts of Python that we will cover in this session:
 - math
 - modules/libs (math, random, time)
 
-### Getting Started
+### Getting started
 
 1. Go to the [Micro:bit Python Editor](https://python.microbit.org/v/3).
 2. Connect your micro:bit to your computer using a USB cable.
@@ -80,9 +95,9 @@ Here are some basic concepts of Python that we will cover in this session:
 5. The code will run automatically on the micro:bit.
 
 
-## Part 2: Notebooks and Dependencies
+## Part 3: Python beyond micro:bit
 
 - Jupyter and Colab
 - popular libraries (numpy, matplotlib, pandas, etc)
 - GitHub Codespaces
-
+- IDEs (VSCode, PyCharm, etc)
