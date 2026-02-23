@@ -6,6 +6,22 @@ output-file: schedule
 
 ## 2026 Q1
 
+- Intro + history of computing and computer architecture
+- Micro:bit + basic Python programming
+- Reproducibility (environments, git, dvc, data formats)
+- Command line, IDEs, version control with Raspberry Pi 5
+- Collaboration (data sharing, quarto, github, github pages)
+- Software design (UML + data)
+- Software design (BPMN)
+- Intermediate python programming and software design techniques (OOP, design patterns)
+- Everyday machine learning with scikit-learn
+- Notebooks and literate programming
+- tools and formats for human studies
+- video game development with pygame + expyriment
+- data wrangling and visualization
+
+---
+
 1. Mar 2026: Getting confident with Python and physical computing with Micro:bit
 2. Mar 2026: Gentle introduction to command line and IDEs with Raspberry Pi 5 (vscode, package management, git)
 3. Apr 2026: Tools for reproducible science (environments, git, dvc, data formats) and collaboration (quarto, github)

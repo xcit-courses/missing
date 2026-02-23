@@ -15,11 +15,11 @@ output-file: syllabus
 
 ### Meeting Times
 
-Lectures: 5 sessions, twice a month (3 months)
+Lectures: 12 sessions, weekly on Wednesdays.
 
-Time: 13:00 - 17:00 + 1h non-mandatory office hours
+Time: 13:00 - 15:00 + 1h non-mandatory office hours
 
-Workload: 20h of in-class activities + 20h of self-study (personal projects)
+Workload: 24h of in-class activities + 24h of self-study (personal projects)
 
 See [Schedule](./2-schedule.qmd) for details.
 
